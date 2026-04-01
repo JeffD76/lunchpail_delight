@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": { "item": "minecraft:leather" },
+    "B": { "tag": "minecraft:wooden_buttons" }
+  },
+  "pattern": [
+    " B ",
+    "L L",
+    "LLL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "canteen_delight:leather_canteen"
+  }
+}

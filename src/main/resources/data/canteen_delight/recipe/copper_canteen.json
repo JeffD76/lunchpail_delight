@@ -1,0 +1,17 @@
+{
+  "type": "canteen_delight:canteen_upgrade",
+  "category": "misc",
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "X": { "item": "canteen_delight:leather_canteen" }
+  },
+  "pattern": [
+    " C ",
+    "CXC",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "id": "canteen_delight:copper_canteen"
+  }
+}

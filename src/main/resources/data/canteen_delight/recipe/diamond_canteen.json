@@ -1,0 +1,17 @@
+{
+  "type": "canteen_delight:canteen_upgrade",
+  "category": "misc",
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "X": { "item": "canteen_delight:gold_canteen" }
+  },
+  "pattern": [
+    " D ",
+    "DXD",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "canteen_delight:diamond_canteen"
+  }
+}
