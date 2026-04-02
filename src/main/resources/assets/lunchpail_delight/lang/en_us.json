@@ -1,0 +1,10 @@
+{
+  "itemGroup.lunchpail_delight": "Lunchpail Delight",
+  "item.lunchpail_delight.leather_lunchpail": "Leather Lunchpail",
+  "item.lunchpail_delight.copper_lunchpail": "Copper Lunchpail",
+  "item.lunchpail_delight.iron_lunchpail": "Iron Lunchpail",
+  "item.lunchpail_delight.gold_lunchpail": "Gold Lunchpail",
+  "item.lunchpail_delight.diamond_lunchpail": "Diamond Lunchpail",
+  "item.lunchpail_delight.netherite_lunchpail": "Netherite Lunchpail",
+  "item.lunchpail_delight.lunchpail.fullness": "%s/%s Meals"
+}

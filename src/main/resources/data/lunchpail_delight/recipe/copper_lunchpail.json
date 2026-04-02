@@ -1,0 +1,17 @@
+{
+  "type": "lunchpail_delight:lunchpail_upgrade",
+  "category": "misc",
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "X": { "item": "lunchpail_delight:leather_lunchpail" }
+  },
+  "pattern": [
+    " C ",
+    "CXC",
+    " C "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lunchpail_delight:copper_lunchpail"
+  }
+}

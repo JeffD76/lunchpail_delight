@@ -1,0 +1,17 @@
+{
+  "type": "lunchpail_delight:lunchpail_upgrade",
+  "category": "misc",
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "X": { "item": "lunchpail_delight:gold_lunchpail" }
+  },
+  "pattern": [
+    " D ",
+    "DXD",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lunchpail_delight:diamond_lunchpail"
+  }
+}

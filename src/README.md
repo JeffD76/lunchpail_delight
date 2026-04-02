@@ -1,0 +1,1 @@
+This is a mod that adds an upgradeable lunch pail, that you can eat food items from, to Minecraft 1.21.1.

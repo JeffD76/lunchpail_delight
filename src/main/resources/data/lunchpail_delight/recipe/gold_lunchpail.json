@@ -1,0 +1,17 @@
+{
+  "type": "lunchpail_delight:lunchpail_upgrade",
+  "category": "misc",
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "X": { "item": "lunchpail_delight:iron_lunchpail" }
+  },
+  "pattern": [
+    " G ",
+    "GXG",
+    " G "
+  ],
+  "result": {
+    "count": 1,
+    "id": "lunchpail_delight:gold_lunchpail"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": { "item": "minecraft:leather" }
+  },
+  "pattern": [
+    " L ",
+    "L L",
+    "LLL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lunchpail_delight:leather_lunchpail"
+  }
+}
